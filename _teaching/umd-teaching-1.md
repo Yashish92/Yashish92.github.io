@@ -2,7 +2,7 @@
 title: "Undergraduate Courses"
 collection: teaching
 type: "Graduate Teaching Assistantship"
-permalink: /teaching/umd-teaching-2
+permalink: /teaching/umd-teaching-1
 venue: "University of Maryland College Park"
 date: 2023-03-18
 location: "College park, USA"
