@@ -85,7 +85,7 @@ author:
   bio              : "PhD Candidate at University of Maryland College Park"
   location         : "College Park, MD, USA"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : ""
   googlescholar    : "https://scholar.google.com/citations?user=Bsx95YMAAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/yashish-maduwantha-65a38257/"
+  linkedin         : "yashish-maduwantha-65a38257"
   orcid            : "http://orcid.org/0000-0002-3914-0612"
   pinterest        :
   soundcloud       :
