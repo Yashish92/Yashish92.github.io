@@ -1,15 +1,24 @@
 ---
-title: "Graduate Courses"
+title: "Undergraduate Courses"
 collection: teaching
-type: "Teaching Assistantship"
+type: "Graduate Teaching Assistantship"
 permalink: /teaching/umd-teaching-2
-venue: "University of Maryland College Park, ECE"
+venue: "University of Maryland College Park"
 date: 2023-03-18
 location: "College park, USA"
 ---
 
-Spring 2020 : Compilers and Optimization
+Fall 2019 : Signals and Systems
 ======
-* Guided students to develop a basic compiler in llvm for cloning functions
+* Weekly Recitation/Discussion classes to solve problem sets
 * Grading and Tutoring
 
+Spring 2019 : Signals and Systems
+======
+* Weekly Recitation/Discussion classes to solve problem sets
+* Grading and Tutoring
+
+Fall 2018 : Elements of Discrete Signal Analysis
+======
+* Weekly Recitation/Discussion classes to solve problem sets
+* Grading and Tutoring
