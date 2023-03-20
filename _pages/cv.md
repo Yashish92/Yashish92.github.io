@@ -18,7 +18,7 @@ Education
 Work experience
 ======
 * Fall 2019 - present: Graduate Research Assistant
-  * Speech Communication Lab (https://scl.umd.edu/) at Univeristy of Maryland College Park
+  * [Speech Communication Lab](https://scl.umd.edu/) at Univeristy of Maryland College Park
   * Supervisors: Professor Carol Espy-Wilson and Professor Shihab Shamma
   * Contributions: 
 	  * Developing an unsupervised learning algorithm inspired by the sensorimotor interactions in humans to learn control parameters to a given articulatory/audio synthesizer (Python/PyTorch, DIVA music synthesizer, libRenderman, pink-trombone)
@@ -29,7 +29,7 @@ Work experience
 	  * Developed a mutimodal speech emotion recognition system with articulatory coordination features and text embedding (Python/keras, librosa, GloVe, eGeMAPS)
 
 * Summer 2022: Machine Learning Engineer Intern
-  * Skylyte(https://www.skylyte.com/), NY, USA
+  * [Skylyte](https://www.skylyte.com/), NY, USA
   * Contributions: 
 	  * Conducted a detailed analysis on vocal biomarkers to identify the best predictors of burnout and resilience (openSMILE, librosa)
 	  * Developed ML models to classify different levels of burnout, resilience, valence and arousal of speech collected from people working in teams at corporate settings
@@ -41,13 +41,13 @@ Work experience
   * Worked as a GTA for undergrad level “Signals and Systems” class in 2019 spring/2019 fall and “Elements of Discrete Signal Analysis” class in 2018 fall.
  
 * May 2017-July 2018: Research Engineer
-  * Synergen Technology Labs (https://www.synergentl.com/), Nugegoda, Sri Lanka
+  * [Synergen Technology Labs](https://www.synergentl.com/), Nugegoda, Sri Lanka
   * Contributions: 
-	  * Developed (and delivered) the communication interface for a wearable ring for capturing PPG and motion signals for a cardiac arrest monitoring system by Rodin Scientific (https://www.rodinscientific.com/)
+	  * Developed (and delivered) the communication interface for a wearable ring for capturing PPG and motion signals for a cardiac arrest monitoring system by [Rodin Scientific](https://www.rodinscientific.com/)
 	  * Programmed and developed an android mobile app to communicate with a wearable baby monitor device via BLE and to calculate parameters like heart rate, respiratory rate and SpO2 level from the PPG signal.
 	  
 * Oct 2015-April 2016: Research Intern
-  * Synergen Technology Labs (https://www.synergentl.com/), Nugegoda, Sri Lanka
+  * [Synergen Technology Labs](https://www.synergentl.com/), Nugegoda, Sri Lanka
   * Contributions: 
 	  * Worked on establishing the data communication protocol between a custom developed mobile app and an Insole with pressure sensors to detect pressure variation in the foot for diabetic foot ulcer detection.
  
