@@ -1,13 +1,12 @@
 ---
-title: "Multimodal Approach for Assessing Neuromotor Coordination in Schizophrenia using Convolutional Neural Networks"
+title: "Acoustic-to-articulatory Speech Inversion with Multi-task Learning"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-date: 2021-10-18
-venue: 'ACM International Conference on Multimodal Interaction (ACM ICMI 2021)'
+permalink: /publication/2010-10-01-paper-title-number-5
+date: 2022-09-18
+venue: 'Interspeech 2022'
 ---
 
-[Pdf](https://dl.acm.org/doi/pdf/10.1145/3462244.3479967)
-[html](https://dl.acm.org/doi/fullHtml/10.1145/3462244.3479967)
-[Poster](http://academicpages.github.io/files/ACM_ICMI_Yashish_poster.pdf)
-[Video](http://academicpages.github.io/files/sp1383_Siriwardena.mp4)
+[Pdf](https://www.isca speech.org/archive/pdfs/interspeech_2022/siriwardena22_interspeech.pdf)
+[html](https://www.isca-speech.org/archive/interspeech_2022/siriwardena22_interspeech.html)
+[Presentation](http://academicpages.github.io/files/Interspeech22_presentation_final.pdf)
 
