@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * B.S. in Biomedical Engineering, University of Moratuwa, Sri Lanka, 2017
-* M.S. in Electrical Engineering, University of Maryland College park, USA, 2022
+* M.S. in Electrical Engineering, University of Maryland College park, USA, 2021
 * Ph.D in Electrical and Computer Engineering, University of Maryland College park, 2022 (expected)
 
 Work experience
