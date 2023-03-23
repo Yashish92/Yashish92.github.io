@@ -1,15 +1,13 @@
 ---
-title: "Paper Title Number 2"
+title: "Multimodal Approach for Assessing Neuromotor Coordination in Schizophrenia using Convolutional Neural Networks"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+date: 2021-10-18
+venue: 'ACM International Conference on Multimodal Interaction (ACM ICMI 2021)'
 ---
-This paper is about the number 2. The number 3 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
+[Pdf](https://dl.acm.org/doi/pdf/10.1145/3462244.3479967)
+[html](https://dl.acm.org/doi/fullHtml/10.1145/3462244.3479967)
+[Poster](http://academicpages.github.io/files/ACM_ICMI_Yashish_poster.pdf)
+[Video](http://academicpages.github.io/files/sp1383_Siriwardena.mp4)
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
