@@ -8,6 +8,6 @@ venue: 'International Conference on Acoustics, Speech and Signal Processing (ICA
 
 [Pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9747358)
 [html](https://ieeexplore.ieee.org/document/9747358)
-[Poster](http://academicpages.github.io/files/ICASSP_2022.pdf)
+[Poster](http://Yashish92.github.io/files/ICASSP_2022.pdf)
 [Code](https://github.com/Yashish92/MirrorNet-for-Audio-synthesizer-controls)
 

@@ -8,6 +8,6 @@ venue: 'ACM International Conference on Multimodal Interaction (ACM ICMI 2021)'
 
 [Pdf](https://dl.acm.org/doi/pdf/10.1145/3462244.3479967)
 [html](https://dl.acm.org/doi/fullHtml/10.1145/3462244.3479967)
-[Poster](http://academicpages.github.io/files/ACM_ICMI_Yashish_poster.pdf)
-[Video](http://academicpages.github.io/files/sp1383_Siriwardena.mp4)
+[Poster](http://Yashish92.github.io/files/ACM_ICMI_Yashish_poster.pdf)
+[Video](http://Yashish92.github.io/files/sp1383_Siriwardena.mp4)
 
