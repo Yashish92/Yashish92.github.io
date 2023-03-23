@@ -6,5 +6,5 @@ date: 2021-12-04
 venue: '181st meeting of Acoustical Society of America 2021'
 ---
 
-[Poster](http://academicpages.github.io/files/ASA_poster.pdf)
+[[Poster]](http://Yashish92.github.io/files/ASA_poster.pdf)
 

@@ -6,7 +6,7 @@ date: 2022-09-18
 venue: 'Interspeech 2022'
 ---
 
-[Pdf](https://www.isca speech.org/archive/pdfs/interspeech_2022/siriwardena22_interspeech.pdf)
-[html](https://www.isca-speech.org/archive/interspeech_2022/siriwardena22_interspeech.html)
-[Presentation](http://Yashish92.github.io/files/Interspeech22_presentation_final.pdf)
+[[Pdf]](https://www.isca speech.org/archive/pdfs/interspeech_2022/siriwardena22_interspeech.pdf)
+[[html]](https://www.isca-speech.org/archive/interspeech_2022/siriwardena22_interspeech.html)
+[[Presentation]](http://Yashish92.github.io/files/Interspeech22_presentation_final.pdf)
 
