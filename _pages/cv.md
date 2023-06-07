@@ -80,6 +80,7 @@ Teaching
   
 Awards and Professional Membership
 ======
+* Selected as an IEEE ICASSP Rising Star for 2023
 * Awarded with Jacob K. Goldhaber Travel Award to attend Interspeech 2022
 * Awarded Acoustical Society of America (ASA) travel grant and Jacob K. Goldhaber Travel award to attend 181st meeting of Acoustical Society of America 2021
 * Awarded with the “Mahapola Higher Education (Merit) Scholarship” for being in the top 100 in the island in G.C.E Advance Level Examination 2011 from the Mathematics stream.
