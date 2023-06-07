@@ -1,10 +1,12 @@
 ---
-title: "Learning to Compute the Articulatory Representations of Speech with the MIRRORNET"
+title: "Acoustic-to-articulatory Speech Inversion with Multi-task Learning"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-6
-date: 2023-08-20
-venue: 'Interspeech 2023'
+permalink: /publication/2010-10-01-paper-title-number-5
+date: 2022-09-18
+venue: 'Interspeech 2022'
 ---
 
-[[Priprint]](https://arxiv.org/abs/2210.16454)
+[[Pdf]](https://www.isca speech.org/archive/pdfs/interspeech_2022/siriwardena22_interspeech.pdf)
+[[html]](https://www.isca-speech.org/archive/interspeech_2022/siriwardena22_interspeech.html)
+[[Presentation]](http://Yashish92.github.io/files/Interspeech22_presentation_final.pdf)
 

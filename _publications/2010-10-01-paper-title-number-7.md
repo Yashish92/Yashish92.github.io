@@ -1,10 +1,10 @@
 ---
-title: "Acoustic-to-Articulatory Speech Inversion Features for Mispronunciation Detection of /r/ in Child Speech Sound Disorders"
+title: "Learning to Compute the Articulatory Representations of Speech with the MIRRORNET"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-7
+permalink: /publication/2010-10-01-paper-title-number-6
 date: 2023-08-20
 venue: 'Interspeech 2023'
 ---
 
-[[Priprint]](https://arxiv.org/abs/2305.16085)
+[[Priprint]](https://arxiv.org/abs/2210.16454)
 

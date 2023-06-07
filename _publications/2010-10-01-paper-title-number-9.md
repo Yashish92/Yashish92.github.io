@@ -1,9 +1,10 @@
 ---
-title: "Audio Data Augmentation for Acoustic-to-articulatory Speech Inversion"
+title: "Speaker-independent Speech Inversion for Estimation of Nasalance"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-9
-date: 2023-09-10
-venue: 'EUSIPCO 2023'
+permalink: /publication/2010-10-01-paper-title-number-8
+date: 2023-08-20
+venue: 'Interspeech 2023'
 ---
 
-[[Preprint]](https://arxiv.org/abs/2205.13086)
+[[Priprint]](https://arxiv.org/abs/2306.00203)
+
