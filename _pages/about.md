@@ -15,7 +15,8 @@ Yashish's research is primarily on speech communication. He combines knowledge o
 News
 ======
 
-1. (May 2023) Three first author papers accepted for publication in Interspeech 2023
+1. (June 2023) I joined as a Summer Research Intern with the Multimodal science group at Dolby Laboratories. Excited to work on a speech synthesis and voice conversion related research problem.
+2. (May 2023) Three first author papers accepted for publication in Interspeech 2023
  - Learning to Compute the Articulatory Representations of Speech with the MIRRORNET
  - Speaker-independent Speech Inversion for Estimation of Nasalance
  - Acoustic-to-Articulatory Speech Inversion Features for Mispronunciation Detection of /r/ in Child Speech Sound Disorders (equal contribution with Nina R. Benway)
