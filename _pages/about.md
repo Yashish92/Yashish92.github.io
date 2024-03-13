@@ -12,9 +12,9 @@ Yashish M. Siriwardena received the honors degree in biomedical engineering from
 
 Yashish's research is primarily on speech communication. He combines knowledge of digital signal processing, speech science, linguistics, acoustic phonetics and machine learning to conduct interdisciplinary research in speech production, speech synthesis and speech inversion. He has also worked in using speech as a behavioral signal for emotion recognition, and the detection and monitoring of mental health.
 
-Resume
+CV
 ======
-[Resume](http://Yashish92.github.io/files/Yashish_long_resume.pdf)
+[CV](http://Yashish92.github.io/files/Yashish_CV_02_19.pdf)
 
 News
 ======
