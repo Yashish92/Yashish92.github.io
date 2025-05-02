@@ -11,11 +11,11 @@ redirect_from:
 
 Education
 ======
-* B.Sc. in Biomedical Engineering, University of Moratuwa, Sri Lanka, 2017
+* Ph.D in Electrical and Computer Engineering, University of Maryland College park, 2023
 * M.S. in Electrical Engineering, University of Maryland College park, USA, 2022
-* Ph.D in Electrical and Computer Engineering, University of Maryland College park, 2023 (expected)
+* B.Sc. in Biomedical Engineering, University of Moratuwa, Sri Lanka, 2017
 
-Work experience
+Work experience (Please download my CV from home page for updated work experience)
 ======
 * Fall 2019 - present: Graduate Research Assistant
   * [Speech Communication Lab](https://scl.umd.edu/) at Univeristy of Maryland College Park
@@ -53,14 +53,15 @@ Work experience
  
 Research Interests
 ======
+* Audio deepfake detection
 * Articulatory speech production
-* Speech Inversion
+* Speech and audio enhancement
 * Speech and Music Synthesis
 * Machine Learning
 * Multi-modal systems
 * Speech in mental health
 
-Publications
+Publications (please check my Google scholar account for updated list of publications)
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
