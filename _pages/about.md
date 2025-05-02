@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Senior Research Engineer at [OmniSpeech](https://www.omni-speech.com/). Before that, I got my PhD and Masters from the Electrical and Computer Engineering Department at Univeristy of Maryland, College Park. I did my PhD under the supervision of [Prof. Carol Espy-Wilson](https://isr.umd.edu/clark/faculty/391/Carol-Espy-Wilson) and [Prof. Shihab Shamma](https://isr.umd.edu/clark/faculty/476/Shihab-Shamma) where I explored the ideas of acoustic-to-articulatory speech inversion and learning interpretable articulatory representations of speech inspired by sensorimotor learning algorithms. During my PhD, I also extensibely worked on utilizing articulatory representations of speech along with facial action units extracted from video and text embeddings from orthographic transcripts to develop multimodal systems for detecting mental health conditions, emotions and child pronunciation disorders. 
+I am currently a Senior Research Engineer at [OmniSpeech](https://www.omni-speech.com/). Before that, I got my PhD and Masters degrees from the Electrical and Computer Engineering Department at Univeristy of Maryland, College Park. I did my PhD under the supervision of [Prof. Carol Espy-Wilson](https://isr.umd.edu/clark/faculty/391/Carol-Espy-Wilson) and [Prof. Shihab Shamma](https://isr.umd.edu/clark/faculty/476/Shihab-Shamma) where I explored the ideas of acoustic-to-articulatory speech inversion and learning interpretable articulatory representations of speech inspired by sensorimotor learning algorithms. During my PhD, I also extensively worked on utilizing articulatory representations of speech along with facial action units extracted from video, and text embeddings to develop multimodal systems for detecting mental health conditions, emotions and child pronunciation disorders. 
 
 
 My primary research interests are in speech communication, audio and deep learning. I combine knowledge of digital signal processing, speech science, linguistics, acoustic phonetics and machine learning to conduct interdisciplinary research in speech production, speech synthesis, speech inversion, speech enhancement and audio classification. I have also worked on using speech as a behavioral signal for emotion recognition, and the detection and monitoring of mental health.
@@ -22,7 +22,7 @@ News
 
 1. (May 2024) Two papers accepted at Interspeech 2024. 
  - My internship work done at Dolby Labarotories on "Accent Conversion with Articulatory Representations"
- - A work I colloborated with Speech Communication Lab at UMD, "A Multimodal Framework for the Assessment of the Schizophrenia Spectrum" 
+ - A work I colloborated with the Speech Communication Lab at UMD, "A Multimodal Framework for the Assessment of the Schizophrenia Spectrum" 
 2. (May 2024) Paper accepted for publication at the 46th Annual International Conference of the IEEE EMBC 2024
 3. (May 2024) Paper accepted for publication at the 32nd European Signal Processing Conference(EUSIPCO) 2024.
 4. (Jan 2024) I joined OmniSpeech LLC as a Senior Research Engineer to work on developing AI based speech enhancement and audio deepfake detection algorithms.
